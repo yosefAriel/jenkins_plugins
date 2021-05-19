@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: Stephan
+Build-Jdk: 1.8.0_131
+Extension-Name: ant-in-workspace
+Specification-Title: Plugin extends official Ant Plugin. Allows to use
+  an Ant that is located in the Workspace.
+Implementation-Title: ant-in-workspace
+Implementation-Version: 1.2.0
+Group-Id: org.jenkins-ci.plugins
+Short-Name: ant-in-workspace
+Long-Name: Ant In Workspace
+Url: https://github.com/jenkinsci/ant-in-workspace-plugin/blob/master/
+ README.md
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.2.0
+Hudson-Version: 1.609.3
+Jenkins-Version: 1.609.3
+Plugin-Dependencies: workflow-job:1.10;resolution:=optional,workflow-s
+ tep-api:1.10;resolution:=optional,ant:1.4,script-security:1.27
+Plugin-Developers: Stephan Watermeyer:phreakadelle:
+Plugin-License-Name: MIT License
+Plugin-License-Url: http://opensource.org/licenses/MIT
+Plugin-ScmUrl: https://github.com/jenkinsci/ant-in-workspace-plugin
+

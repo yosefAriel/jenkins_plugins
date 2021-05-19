@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: michael
+Build-Jdk: 1.7.0_75
+Extension-Name: secondary-timestamper-plugin
+Implementation-Title: secondary-timestamper-plugin
+Implementation-Version: 1.1
+Group-Id: org.jenkins-ci.plugins
+Short-Name: secondary-timestamper-plugin
+Long-Name: Jenkins secondary timestamper plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/secondary-timestamper
+ -plugin
+Plugin-Version: 1.1
+Hudson-Version: 1.560
+Jenkins-Version: 1.560
+Plugin-Developers: Michael:michael1010:fussball89@online.de
+

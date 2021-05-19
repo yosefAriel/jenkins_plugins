@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='secondary-timestamper-plugin' version='1.1'><l:dependency name='Jenkins secondary timestamper plugin' groupId='org.jenkins-ci.plugins' artifactId='secondary-timestamper-plugin' version='1.1' url='https://wiki.jenkins-ci.org/display/JENKINS/secondary-timestamper-plugin'><l:description/></l:dependency></l:dependencies>
